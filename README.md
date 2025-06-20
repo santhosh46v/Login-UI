@@ -18,8 +18,9 @@ A clean and modern **Login UI** built using **React Native** and **Expo**.
 
 ## 🛠 Installation
 
+```bash
 git clone https://github.com/santhosh46v/Login-UI.git
-cd cd Login-UI
+cd Login-UI
 
 npm install
  or
